@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ol3-typescript-definition</id>
+    <version>3.0.0</version>
+    <authors>Poul Kjeldager Sørensen</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ol3 d.ts file</description>
+  </metadata>
+  <files>
+    <file src="Scripts\typings\ol3\ol.d.ts" target="Scripts\typings\ol3\ol.d.ts" />
+  </files>
+</package>
